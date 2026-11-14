@@ -1,0 +1,6 @@
+{
+  "name": "Tap Away Arrows",
+  "description": "A crisp, brain-teasing puzzle game where you tap away directional arrow paths in the right order to clear intricate boards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
